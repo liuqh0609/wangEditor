@@ -48,7 +48,6 @@ jobs:
           echo "--------------- npm i done ---------------"
           npm install wangeditor@latest --save
           npm run prod
-          echo "--------------- rebuild done ---------------"
 
           ## 将 dist 文件夹，重命名为 publish-npm-test ，并上传到服务器
           mv dist publish-npm-test
