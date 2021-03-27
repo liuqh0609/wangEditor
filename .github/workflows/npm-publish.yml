@@ -42,7 +42,6 @@ jobs:
         run: |
           ## 下载 demo ，安装最新的插件，并重新打包
           git clone git@github.com:wangeditor-team/we-demo.git
-          echo "--------------- git clone done ---------------"
           cd we-demo
           npm install
           echo "--------------- npm i done ---------------"
