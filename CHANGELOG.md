@@ -1,3 +1,10 @@
+## [4.6.3](https://github.com/wangeditor-team/wangEditor/compare/v4.6.2...v4.6.3) (2021-03-27)
+
+
+### Features
+
+* 测试release发布 ([a50c9f4](https://github.com/wangeditor-team/wangEditor/commit/a50c9f42e20e7d7ab85daf910724f0281ff82e6b))
+
 ## [4.6.2](https://github.com/wangeditor-team/wangEditor/compare/v4.6.1...v4.6.2) (2021-03-27)
 
 
