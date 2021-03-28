@@ -44,10 +44,8 @@ jobs:
           git clone git@github.com:wangeditor-team/we-demo.git
           cd we-demo
           npm install
-          echo "--------------- npm i done ---------------"
           npm install wangeditor@latest --save
           npm run prod
-
           ## 将 dist 文件夹，重命名为 publish-npm-test ，并上传到服务器
           mv dist publish-npm-test
           ssh work@${{secrets.TECENT_SERVER}} "rm -rf /home/work/wangEditor-team/example-pages/publish-npm-test"
