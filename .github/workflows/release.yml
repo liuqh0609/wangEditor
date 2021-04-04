@@ -12,7 +12,7 @@ jobs:
       # 生成changelog信息
       - name: Generate changelog
         id: changelog
-        uses: liuqh0609/changelog-generator@v1.0.0
+        uses: liuqh0609/changelog-generator@main
         with:
           myToken: ${{ secrets.TEST_TOKEN }}
       # 发布 Release
