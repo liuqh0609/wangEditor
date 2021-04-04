@@ -1,3 +1,10 @@
+## [4.6.6](https://github.com/wangeditor-team/wangEditor/compare/v4.6.5...v4.6.6) (2021-04-04)
+
+
+### Bug Fixes
+
+* 修复版本号 ([cb58540](https://github.com/wangeditor-team/wangEditor/commit/cb5854036ef2d6f8400006bda70b1f9b3f87cbea))
+
 ## [4.6.5](https://github.com/wangeditor-team/wangEditor/compare/v4.6.4...v4.6.5) (2021-04-04)
 
 
